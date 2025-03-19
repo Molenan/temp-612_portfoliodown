@@ -1,12 +1,12 @@
 head:
-  title: "Matt Dancho's Data Science Portfolio"
+  title: "Allison Molen's Data Science Portfolio"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Matt Dancho."
+  title: "Hello, I’m Allison Molen."
   subtitle: "Data Scientist"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  description: "Allison is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -16,8 +16,8 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Matt"
-    URL: "mailto:your-email@gmail.com"
+    btnText: "Contact Allison"
+    URL: "mailto:molenan@vcu.edu"
 
   socialLinks:
     - icon: "linkedin"
@@ -54,15 +54,15 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: 
+  content:
     <p class="lead">
     <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    or building software, I enjoy vacationing with my family and friends.
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
+    <strong>My area of focus</strong> is applying data science to business.
     I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
+    cost of problems and delivering a return-on-investment with my solutions.
     I enjoy learning, working with stakeholders, and making better decisions with data.
     </p>
   button:
@@ -112,7 +112,7 @@ education:
     - university: "University of Pittsburgh"
       year: "2008-2010"
       degree: "Master of Industrial Engineering"
-      
+
     - university: "Penn State University"
       year: "2002-2006"
       degree: "Bachelor of Mechanical Engineering"
@@ -123,7 +123,7 @@ education:
 client_and_work:
   title: "Portfolio"
   enable: true
-  
+
   enable_clients: false
   clients:
     - logo:
@@ -179,21 +179,21 @@ client_and_work:
         _2x: "img/works/app_cannondale_price_prediction.jpg"
       is_even: false
 
-    
+
 
 # testimonial
 testimonial:
   enable: true
   title: "Testimonials"
   items:
-  
+
     - name: "Justin Kurland, PhD"
       position: "Lead Data Scientist, Northwestern Mutual"
       content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
       image:
         x: "img/testimonials/justin.jpg"
         _2x: "img/testimonials/justin.jpg"
-        
+
     - name: "Chris Selig"
       position: "Data Scientist"
       content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
@@ -201,7 +201,7 @@ testimonial:
         x: "img/testimonials/chris.jpg"
         _2x: "img/testimonials/chris.jpg"
 
-    
+
 
     - name: "Mohana Krishna Chittoor"
       position: "Lead Data Scientist, Money View"
@@ -214,16 +214,16 @@ testimonial:
 contact:
   enable: true
   title: "Contact Matt"
-    
+
   image:
     x: "img/who-am-i/user-picture-2.jpg"
     _2x: "img/who-am-i/user-picture-2.jpg"
-    
+
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
     btnAction: 'mailto:your-email@gmail.com'
-    
+
   phone:
     title: "Phone Number"
     number: "--"
@@ -233,7 +233,7 @@ contact:
   address:
     title: "Address"
     address: "--"
-  
+
 
 # newsletter
 newsletter:
