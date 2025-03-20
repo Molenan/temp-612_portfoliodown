@@ -49,7 +49,7 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com"
   image:
-    x: "img/headshot.jpg"
+    x: "images/headshot.jpg"
     _2x: "headshot.jpg"
 
 # experience
