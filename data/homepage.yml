@@ -50,7 +50,7 @@ about:
     URL: "https://www.linkedin.com"
   image:
     x: "img/who-am-i/headshot.jpg"
-    _2x: "images/headshot.jpg"
+    _2x: "img/who-am-i/headshot.jpg"
 
 # experience
 experience:
