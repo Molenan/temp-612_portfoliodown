@@ -41,9 +41,6 @@ showcase:
     - icon: "instagram"
       URL: "https://www.instagram.com"
 
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
     - icon: "codepen"
       URL: "#"
 
